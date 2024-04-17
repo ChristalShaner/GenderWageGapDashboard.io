@@ -5,7 +5,7 @@ I made this dashboard with Tableau Desktop, and utilized a sample data set creat
 
 The image below is a glance at the final product. You may also check it out in its interactive state on GitHub Pages! If you have any questions about the data or its presentation, don't hesitate to ask! 
 
-View Dashboard: https://christalshaner.github.io/GenderWageGapDashboard.io/ (Note - you may need to log in to Tableau Cloud using the window to view it) <br>
+View Dashboard: https://christalshaner.github.io/GenderWageGapDashboard.io/  <br> (Note - you may need to log in to Tableau Cloud using the window to view it)  <br>
 Gibin's data set on Kaggle: https://www.kaggle.com/datasets/willianoliveiragibin/gender-economic-inequality
 
 <img width="1196" alt="Screenshot 2024-04-16 at 8 39 32 PM" src="https://github.com/ChristalShaner/GenderWageGapDashboard.io/assets/162538558/e673d9e2-1061-4eca-8b2d-064108ffdb74">
